@@ -7,7 +7,7 @@ package pl.futurecollars.invoicing;
 public class App {
 
   public String getGreeting() {
-    return "Hello World!";
+    return "Sorting Stuff Out";
   }
 
   public static void main(String[] args) {
